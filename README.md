@@ -1,24 +1,19 @@
-# README
+# README Airbnb pour chiens @loundness
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Cette application sert à mettre en relation des maitres dans différentes villes 
+afin de faire promener leur chiens
 
-Things you may want to cover:
+#Versions
+* Ruby version 2.5.1
 
-* Ruby version
+* Rails version 5.2.0
 
-* System dependencies
+```
+## Lancer le projet 
 
-* Configuration
+1) Cloner le repo ```git clone https://github.com/Dim97122/Blog_RoR.git```
+2) Se mettre dans le dossier cloné puis ```bundle install``` 
+3) Créer la base de donnée avec la commande ```rails db:migrate```
+4) Finir par ```rails db:seed```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
